@@ -1,0 +1,95 @@
+/* CSS Document */
+
+body,td,th {
+	font-size: 26px;
+}
+.xh {
+	color: #FFF;
+	font-size: 80px;
+	font-family: "华文行楷";
+	width:160px;
+	padding-left:35px;
+}
+.tww {
+	color: #FFF;
+	font-family: "新宋体";
+	font-size: 60px;
+	width:200px;
+}
+.web {
+	color: #FFF;
+	font-size:20px;
+	
+}
+.cj {
+	color: #CCC;
+	font-size:20px;
+}
+.bar{
+	margin-top:50px;
+	width:1230px;
+	text-align:center;
+}
+.bar ul{
+	list-style-type:none;
+	margin:0;
+	padding:0;
+}
+.bar li{
+	line-height:40px;
+	float:left;
+}
+.bar a{
+	width:307px;
+	height:40px;
+	display:block;
+	text-decoration:none;
+	color:#CCC;
+	background:black;
+}
+.bar a:hover{
+	background:#2B2B2B;
+	color:white;
+}
+.tp{
+	padding-top:90px;
+	margin-left:50px;
+}
+.wz{
+	margin-right:50px;
+	color: #FFF;
+}
+.nwz{
+	width:1226px;
+	margin: 50px;
+} 
+.tp td .tw {
+	color: #FFF;
+	line-height: 40px;
+}
+.tp .wz {
+	color: #FFF;
+	line-height: 50px;
+}
+.tp.gy {
+	color: #FFF;
+}
+.tp .gy {
+	font-family: "隶书";
+	color: #FFF;
+	font-size: 50px;
+}
+.nwz {
+	color: #FFF;
+	line-height: 50px;
+	padding-right:50px;
+}
+.nwz fz {
+	color: #FFF;
+	font-family: "隶书";
+}
+.nwz div .fz {
+	font-family: "隶书";
+	font-size: 50px;
+	color: #FFF;
+}

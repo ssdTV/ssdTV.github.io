@@ -1,0 +1,148 @@
+/* CSS Document */
+
+body,td,th {
+	font-size: 26px;
+	color:white;
+}
+.xh {
+	color: #FFF;
+	font-size: 80px;
+	font-family: "华文行楷";
+	width:160px;
+	padding-left:35px;
+}
+.tww {
+	color: #FFF;
+	font-family: "新宋体";
+	font-size: 60px;
+	width:200px;
+}
+.web {
+	color: #FFF;
+	font-size:20px;
+}
+.cj {
+	color: #CCC;
+	font-size:20px;
+}
+.bar{
+	margin-top:50px;
+	width:1230px;
+	text-align:center;
+}
+.bar ul{
+	list-style-type:none;
+	margin:0;
+	padding:0;
+}
+.bar li{
+	line-height:40px;
+	float:left;
+}
+.bar a{
+	width:307px;
+	height:40px;
+	display:block;
+	text-decoration:none;
+	color:#CCC;
+	background:black;
+}
+.bar a:hover{
+	background:#2B2B2B;
+	color:white;
+}
+.st{
+	margin-top:100px;
+	width:1000px;
+	margin-left:10px;
+}
+.bt{
+	margin-top:50px;
+	width:1230px;
+	text-align:center;
+}
+.bt ul
+{
+	list-style-type:none;
+	margin:0;
+	padding:0;
+}
+.bt li
+{
+	line-height:40px;
+	float:left;
+}
+.bt a:link{
+	width:307px;
+	height:40px;
+	display:block;
+	text-decoration:none;
+	color:#CCC;
+	background:black;
+}
+.bt a:hover{
+	background:#2B2B2B;
+	color:white;
+}
+a:visited {
+	text-decoration: none;
+	color: #FFF;
+}
+.tp{
+	text-align:center;
+	margin-top:100px;
+	margin-left:2px;
+}
+.ty{
+	margin-left:48px;
+	padding-bottom:25px;
+}
+.sk{
+	margin-left:150px;
+	padding-bottom:30px;
+}
+.twx{
+	margin-left:117px;
+	padding-bottom:55px;
+	
+}
+.yzts{
+	padding-left:99px;
+}
+.xw{
+	margin-left:138px;
+}
+.T1{
+	color: #CCC;
+	font-size: 18px;
+	line-height: 28px;
+	margin-left:20px;
+}
+.T2{
+	color: #CCC;
+	font-size: 18px;
+	line-height: 28px;
+	margin-left:20px;
+
+}
+.T3{
+	color: #CCC;
+	font-size: 18px;
+	line-height: 28px;
+	margin-left:20px;
+
+}
+.T4{
+	color: #CCC;
+	font-size: 18px;
+	line-height: 28px;
+	margin-left:20px;
+
+}
+.T5{
+	color: #CCC;
+	font-size: 18px;
+	line-height: 28px;
+	margin-left:20px;
+
+}

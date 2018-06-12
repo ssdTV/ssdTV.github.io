@@ -1,0 +1,56 @@
+body,td,th {
+	font-size: 26px;
+	color:white;
+}
+.xh {
+	color: #FFF;
+	font-size: 80px;
+	font-family: "华文行楷";
+	width:160px;
+	padding-left:35px;
+}
+.tww {
+	color: #FFF;
+	font-family: "新宋体";
+	font-size: 60px;
+	width:200px;
+}
+.web {
+	color: #FFF;
+	font-size:20px;
+	
+}
+.cj {
+	color: #CCC;
+	font-size:20px;
+}
+.bar{
+	margin-top:50px;
+	width:1230px;
+	text-align:center;
+}
+.bar ul{
+	list-style-type:none;
+	margin:0;
+	padding:0;
+}
+.bar li{
+	line-height:40px;
+	float:left;
+}
+.bar a{
+	width:307px;
+	height:40px;
+	display:block;
+	text-decoration:none;
+	color:#CCC;
+	background:black;
+}
+.bar a:hover{
+	background:#2B2B2B;
+	color:white;
+}
+.st{
+	margin-top:70px;
+	width:1000px;
+}
